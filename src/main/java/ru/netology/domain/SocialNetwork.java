@@ -1,5 +1,6 @@
 package ru.netology.domain;
 
+
 public class SocialNetwork {
 
     private String nameID;
